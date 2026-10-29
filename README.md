@@ -46,6 +46,8 @@ for i in range(5) :
   print("Hello World!")
 ```
 
+![책장](bookshelf_alligned.jpg)
+
 <https://docs.python.org/ko/3/>
 
 [파이썬 공식문서](https://docs.python.org/ko/3/)
